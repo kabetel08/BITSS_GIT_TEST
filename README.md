@@ -1,5 +1,6 @@
 # BITSS_GIT_TEST
-Testing     
+Testing.     
 This is plain text.  
-Add a second line and modify second  
-add a third line   
+Add a second line and modify second.  
+add a third line. 
+added fifth line in the second comp. 
